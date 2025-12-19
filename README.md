@@ -1,5 +1,5 @@
-CLI Todo application built in Golang utilized Cobra package
- Curently Supporting:
+## CLI Todo application built in Golang utilized Cobra package
+  Curently Supporting:
    - `add`
    - `edit`
    - `list`
