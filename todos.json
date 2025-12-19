@@ -31,9 +31,9 @@
  },
  {
   "Title": "Have fun with friends later",
-  "Completed": false,
+  "Completed": true,
   "CreatedAt": "2025-01-28T23:47:31.854839-05:00",
-  "CompletedAt": null
+  "CompletedAt": "2025-12-19T23:01:04.101418831+05:30"
  },
  {
   "Title": "Having cheese",
